@@ -2,7 +2,7 @@
 
 Edugallery is a Django-based e-commerce platform designed to empower college students by providing a marketplace to buy and sell products within their campus. This project was developed as part of a Bachelor of Computer Application degree.
 
-## 📌 Features
+## Features
 
 ### Core Modules:
 - **Admin Panel**: Manage users, products, categories, and transactions.
@@ -16,7 +16,7 @@ Edugallery is a Django-based e-commerce platform designed to empower college stu
 - **User Authentication**: Secure login, registration, and password management.
 - **Responsive UI**: Works on desktop and mobile devices.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Backend**: Django 4.1, Python 3.x
 - **Database**: MySQL
