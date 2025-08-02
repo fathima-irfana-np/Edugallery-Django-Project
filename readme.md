@@ -1,7 +1,5 @@
 # Edugallery - Student E-Commerce Platform
 
-![Edugallery Logo](static/images/logo.png) *(Optional: Add a logo if available)*
-
 Edugallery is a Django-based e-commerce platform designed to empower college students by providing a marketplace to buy and sell products within their campus. This project was developed as part of a Bachelor of Computer Application degree.
 
 ## 📌 Features
