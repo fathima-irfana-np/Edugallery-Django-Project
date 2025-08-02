@@ -7,7 +7,7 @@ Edugallery is a Django-based e-commerce platform designed to empower college stu
 ### Core Modules:
 - **Admin Panel**: Manage users, products, categories, and transactions.
 - **Seller Dashboard**: List products, upload multiple images, and track orders.
-- **Buyer Dashboard**: Browse products, view seller details, and make purchases.
+- **Buyer Dashboard**: Browse products, view seller details
 - **User Profiles**: Personalized profiles with address management.
 
 ### Key Features:
